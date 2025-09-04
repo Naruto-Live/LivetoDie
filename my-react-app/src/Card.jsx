@@ -5,7 +5,7 @@ function Card() {
         <div className="card">
             <img className="card-img" src={boyPic} alt="Profile Pic"></img>      
             <h2 className="card-title">Lucky Bhai</h2>
-            <p className="card-text">Fuck you every one</p>        
+            <p className="card-text">私は お兄さん ラッキー です</p>        
         </div>
     );
 }
